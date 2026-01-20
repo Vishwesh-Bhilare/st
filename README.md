@@ -17,7 +17,7 @@ My very simple fork of st, comes with no guarantees or warranties <sub>(to be cl
 
 ## how install pls?
 ```
-git clone https://github.com/BreadOnPenguins/st
+git clone https://github.com/Vishwesh-Bhilare/st
 cd st
 sudo make install
 ```
